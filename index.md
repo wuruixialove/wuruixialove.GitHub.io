@@ -6,4 +6,4 @@
 
 ### 联系我吧
 
-通过关注我的 [推特](https://twitter.com/wuruixialove) 或者 [邮箱](wuruixialove@live.com) and we’ll help you sort it out.
+通过关注我的 [推特](https://twitter.com/wuruixialove) 或者 [邮箱](wuruixialove@live.com) 联系我。
