@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的云站
 
-You can use the [editor on GitHub](https://github.com/wuruixialove/wuruixialove.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+你以后可以随时访问我的网站[wuruixialove](https://wuruixialove.GitHub.io/) 是否考虑考虑添加到你的收藏夹？
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
