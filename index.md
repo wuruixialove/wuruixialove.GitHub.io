@@ -5,7 +5,7 @@
 ## 我最近的公众号文章：
 [APP推荐| 彩云天气](https://mp.weixin.qq.com/s/xJY9V4HzIu7_EpeHNogEjQ)
 <br>
-[收趣| 跨平台的云端收藏神器](https://mp.weixin.qq.com/s/xJY9V4HzIu7_EpeHNogEjQ)
+[收趣| 跨平台的云端收藏神器](https://mp.weixin.qq.com/s/kYhCkfBJO2362Zp_K4C8hQ)
 
 ### 联系我吧
 
